@@ -62,7 +62,7 @@ I focus on practical, hands-on projects that blend cybersecurity, software engin
   <a href="https://github.com/DespinaKr">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://tryhackme.com/p/DespinaKr">
+  <a href="https://tryhackme.com/p/Naki500">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme" />
   </a>
   <!-- Uncomment and add your email if you wish -->
