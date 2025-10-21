@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Despina 👋</h1>
 
 <p align="center">
-  <img src="https://tenor.com/oGSpJqNiUm3.gif" width="600" alt="Cybersecurity animation"/>
+  <img src="./assets/shodan.gif" width="400" alt="My gif"/>
 </p>
 
 <h3 align="center">Cybersecurity Enthusiast | Software Developer | Tech Explorer</h3>
@@ -23,11 +23,9 @@ allowing me to approach problems both analytically and technical
 ### 💻 Languages and Tools
 
 <p align="center">
-  <!-- 🧠 Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,php,matlab,bash,regex" alt="languages" />
   <br/>
-  <!-- ⚙️ Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=kali,linux,git,github,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,github,vscode,git,anaconda,debian,maven,nodejs,spring,ubuntu,windows" alt="tools" />
 </p>
 
 ---
