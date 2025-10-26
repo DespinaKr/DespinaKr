@@ -73,4 +73,3 @@ I focus on practical, hands-on projects that blend cybersecurity, software engin
 
 ---
 
-⭐ *“Learn. Break. Fix. Repeat.”*  
