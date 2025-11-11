@@ -44,18 +44,6 @@ I focus on practical, hands-on projects that blend cybersecurity, software engin
  (to be uploaded)
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DespinaKr&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=DespinaKr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DespinaKr&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://github.com/DespinaKr">
