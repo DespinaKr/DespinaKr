@@ -15,6 +15,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
-          username: "Nakis00"                 # το THM username σου
+          username: "Naki500"                 # το THM username σου
           image_path: ./assets/thm_propic.png # που θα σωθεί η εικόνα
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
