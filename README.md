@@ -17,8 +17,7 @@ allowing me to approach problems both analytically and technical
 ---
 
 ### 🔐 TryHackMe Profile
-<img src="https://tryhackme-badges.s3.amazonaws.com/Naki500.png" alt="Your Image Badge" />
-
+![tryhackme stats](https://raw.githubusercontent.com/Naki500/Naki500/master/assets/thm_propic.png)
 
 ### 💻 Languages and Tools
 
