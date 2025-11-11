@@ -17,7 +17,7 @@ allowing me to approach problems both analytically and technical
 ---
 
 ### 🔐 TryHackMe Profile
-![tryhackme stats](https://raw.githubusercontent.com/Naki500/Naki500/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/Naki500/Naki500/master/thm_propic.png)
 
 ### 💻 Languages and Tools
 
