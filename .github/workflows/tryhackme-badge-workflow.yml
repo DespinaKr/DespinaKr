@@ -23,11 +23,11 @@ jobs:
         with:
           username: "Naki500"
           image_path: assets/thm_propic.png
-          use_static_image: false          # <-- ΑΛΛΑΓΗ
-          user_public_id: "5948644"  # <-- ΑΛΛΑΓΗ
+          use_static_image: false          
+          user_public_id: "5948644"  
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Προαιρετικό debug για να βλέπεις αν γράφτηκε αρχείο/commit
+     
       - name: Show last commit and assets
         run: |
           git log -1 --name-status
