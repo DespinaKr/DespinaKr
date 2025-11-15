@@ -17,7 +17,7 @@ allowing me to approach problems both analytically and technical
 ---
 
 ### 🔐 TryHackMe Profile
-![tryhackme stats](https://raw.githubusercontent.com/<DespinaKr>/main/assets/thm_propic.png)
+![tryhackme stats](/assets/thm_propic.png)
 
 ### 💻 Languages and Tools
 
