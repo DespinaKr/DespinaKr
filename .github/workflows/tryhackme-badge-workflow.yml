@@ -6,15 +6,29 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write          # για να μπορεί να κάνει commit την εικόνα
+  contents: write
 
 jobs:
   tryhackme-badge-update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          username: "Naki500"                 # το THM username σου
-          image_path: assets/thm_propic.png # που θα σωθεί η εικόνα
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Update THM badge (API mode)
+        uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          username: "Naki500"
+          image_path: assets/thm_propic.png
+          use_static_image: false          # <-- ΑΛΛΑΓΗ
+          user_public_id: "5948644"  # <-- ΑΛΛΑΓΗ
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Προαιρετικό debug για να βλέπεις αν γράφτηκε αρχείο/commit
+      - name: Show last commit and assets
+        run: |
+          git log -1 --name-status
+          ls -la assets || true
